@@ -1,7 +1,7 @@
 name: Fabio Angelini Portfolio
 favicon: null
-layout_spectrum: 0.733159291325137
-typography_spectrum: 0.14039020845666528
+layout_spectrum: 1
+typography_spectrum: 0.88759
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.3838675427250564
-  lightness: 0.4108011631760746
-  saturation: 0.6027980265207589
-  rhythmicContrast: 0.7720074222888798
+    - '#dedfe0'
+    - '#cccccc'
+    - '#ffffff'
+    - '#aaaaaa'
+    - '#808080'
+  brandStrength: 0.8125
+  lightness: 1
+  saturation: 0.25
+  rhythmicContrast: 0.75
 purpose: []
